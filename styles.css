@@ -48,8 +48,9 @@ main {
 
 .circle {
   position: absolute;
-  top: 95px;
-  left: 110px;
+  top: 92px;
+  left: 50%;
+  transform: translate(-50%, 0);
 }
 
 .name-age {
@@ -112,10 +113,6 @@ main {
 @media (min-width: 992px) {
   .container {
     width: 350px;
-  }
-
-  .circle {
-    left: 127px;
   }
   .followers {
     margin-left: 2.94rem;
