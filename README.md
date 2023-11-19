@@ -21,8 +21,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/GGSWEngineer/Profile-Card-Component-Solution
+- Live Site URL: https://ggswengineer.github.io/Profile-Card-Component-Solution/
 
 ## My process
 
@@ -42,6 +42,6 @@ I looked at a Kevin Powell CSS video recently and he mentioned using % for width
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@GGSWEngineer](https://www.frontendmentor.io/profile/GGSWEngineer)
+- LinkedIn - [Gerardo Garcia](www.linkedin.com/in/gerardo-garcia-19a794275)
 
