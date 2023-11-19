@@ -7,6 +7,12 @@
 body {
   font-family: "Kumbh Sans", sans-serif;
   background: #19a1ae;
+  background-image: url("./images/bg-pattern-top.svg"),
+    url("./images/bg-pattern-bottom.svg");
+  background-repeat: no-repeat, no-repeat;
+  background-position: right 52vw bottom 35vh, left 48vw top 52vh;
+  /* top img is offset 52 percent of the vw from the right and offset 35 of the vh from the bottom*/
+  /* bottom img is offset 48 percent of the vw from the left and offset 52 of the vh from the top*/
 }
 
 main {
@@ -55,14 +61,14 @@ main {
   margin-left: 0.5rem;
 }
 
-.name-age h2,
-.following h2 {
+.name-age h1,
+.following h1 {
   color: #2e3349;
   font-size: 1.125rem;
   font-weight: 700;
 }
 
-.name-age h2 .age {
+.name-age h1 .age {
   color: #6b7082;
   font-size: 1.125rem;
   font-weight: 400;
