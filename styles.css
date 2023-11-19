@@ -48,12 +48,12 @@ main {
 
 .circle {
   position: absolute;
-  top: 90px;
-  left: 115px;
+  top: 95px;
+  left: 113px;
 }
 
 .name-age {
-  margin-top: 4rem;
+  margin-top: 4.25rem;
   margin-bottom: 0.81rem;
 }
 
